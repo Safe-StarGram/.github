@@ -1,7 +1,7 @@
 # 👷 현장 안전관리 시스템(세이프스타그램)
 
 <div align="center">
-<img src="https://github.com/SafeStarGram/.github/blob/main/profile/profileimgs/main.png" alt="메인" />
+<img src="https://github.com/Safe-StarGram/.github/blob/main/profile/main2.png?raw=true" alt="메인" />
 </div>
 
 ## 📝  프로젝트 개요
