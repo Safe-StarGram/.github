@@ -1,7 +1,7 @@
 # 👷 현장 안전관리 시스템(세이프스타그램)
 
 <div align="center">
-<img src="https://github.com/Safe-StarGram/.github/blob/main/profile/main2.png?raw=true" alt="메인" />
+<img src="https://github.com/Safe-StarGram/.github/blob/main/profile/main2.png?raw=true" alt="메인" width="800px" />
 </div>
 
 ## 📝  프로젝트 개요
@@ -13,17 +13,17 @@
 
 ## 📦 배포
 
-> 
+> https://safestargram2.vercel.app/
 
 테스트 계정
 
-- ID: 
-- PW: 
+- ID: test@test.test
+- PW: test12
 
 ## 💁🏻 팀원
-  - 송용훈(FE)
-  - 강병찬(BE)
-  - 유환욱(FE)
+  - 송용훈(FE) : UI/UX 디자인
+  - 강병찬(BE) : 백엔드 로직(회원가입, 로그인, 회원정보수정, 포스트 생성, 수정, 삭제 기능, 댓글 추가 삭제, 구역 추가, 수정, 통계 API)
+  - 유환욱(FE) : 프론트 엔드 로직(회원가입, 로그인, 회원정보수정, 포스트 생성, 수정, 삭제 기능, 댓글 추가 삭제, 구역 추가, 수정, 통계)
 
 ## ⚙️ 기술 스택
 ### 🎨 Frontend
